@@ -12,7 +12,7 @@
 
 ## Project links
 - Shared GitHub repository: https://github.com/mishkhurshid/is117-group-business
-- Published documentation site: **not published yet**
+- Published documentation site: **GitHub Pages deployment pending** — [enable Pages from main / root](https://github.com/mishkhurshid/is117-group-business/settings/pages); expected URL after successful publication: https://mishkhurshid.github.io/is117-group-business/ (not yet verified)
 - Deployed café site: **not built yet** (not required for Research Review 1)
 
 ## Team
@@ -21,6 +21,9 @@
 
 ## Current research status (November 17, 2026)
 Draft competitor comparison: Starbucks, Dunkin and Gregorys Coffee. Only the Starbucks source has a recorded specific observation; other competitor observations require human verification. Two positioning alternatives and two **hypothetical**, not interviewed, personas are documented. Initial design direction is proposed, not customer-validated.
+
+## Research website source
+- [Research site HTML](index.html) — accessible single-page research summary; publication still needs verification.
 
 ## Review request
 Please open a source linked in [research](docs/research.md), check one observation, follow it to a proposed feature and planned test, and file a GitHub issue with any gap. We will record decisions, linked commits, checks and reviewer retries. Do not close unresolved feedback.
