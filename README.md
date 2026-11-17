@@ -17,7 +17,7 @@
 
 ## Team
 - Mishal Khurshid — @mishkhurshid
-- Second teammate — **name and GitHub username pending confirmation**
+- Aryanna — @am2290445
 
 ## Current research status (November 17, 2026)
 Draft competitor comparison: Starbucks, Dunkin and Gregorys Coffee. Only the Starbucks source has a recorded specific observation; other competitor observations require human verification. Two positioning alternatives and two **hypothetical**, not interviewed, personas are documented. Initial design direction is proposed, not customer-validated.
