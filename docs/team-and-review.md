@@ -4,7 +4,7 @@
 | Member | Research responsibility | Review / decision responsibility | Actual evidence |
 |---|---|---|---|
 | Mishal Khurshid (@mishkhurshid) | Initial research framework, competitor source list and draft personas | Decide on research structure and review feedback | See repository commits |
-| Teammate (name / GitHub username to confirm) | Verify Dunkin and Gregorys original pages, add dated findings | Cross-review one evidence-to-design chain and record feedback | Pending; add links to teammate commits and issue comments |
+| Aryanna (@am2290445) | Verify Dunkin and Gregorys original pages, add dated findings | Cross-review one evidence-to-design chain and record feedback | Pending; add links to teammate commits and issue comments |
 
 **Proposed fair division:** Mishal handles research framework and source-to-feature table; teammate verifies competitors and improves persona/positioning evidence. Both cross-review each other's work and contribute commits/issues. Do not report proposed tasks as completed.
 
@@ -23,7 +23,7 @@
 7. Close only after the retry is recorded; leave unfinished issues open.
 
 ## Open items
-- Confirm teammate's name and username.
+- Confirm Aryanna's actual commits and review contributions (not yet verified).
 - Add verified dated observations for Dunkin and Gregorys.
 - Confirm whether the name Tastee Cafe is distinct enough for a classroom concept; do not imply trademark clearance.
 - Obtain actual peer feedback and retest.
