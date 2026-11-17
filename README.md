@@ -12,7 +12,7 @@
 
 ## Project links
 - Shared GitHub repository: https://github.com/mishkhurshid/is117-group-business
-- Published documentation site: **GitHub Pages deployment pending** — [enable Pages from main / root](https://github.com/mishkhurshid/is117-group-business/settings/pages); expected URL after successful publication: https://mishkhurshid.github.io/is117-group-business/ (not yet verified)
+- Published documentation site: https://mishkhurshid.github.io/is117-group-business/ (user reports it is viewable; independent browser check pending)
 - Deployed café site: **not built yet** (not required for Research Review 1)
 
 ## Team
