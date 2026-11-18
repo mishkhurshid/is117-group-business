@@ -8,8 +8,8 @@ How should a hypothetical student-oriented café website help visitors discover 
 | Site / original source | Observed on | Evidence on source | Interpretation / limitation |
 |---|---|---|---|
 | [Starbucks Rewards](https://www.starbucks.com/rewards) | 2026-11-17 | Explains earning Stars, benefits and joining | Repeat-customer incentives are prominently explained; this does **not** establish that Tastee Cafe customers want rewards |
-| [Dunkin](https://www.dunkindonuts.com/) | 2026-11-17 | Official competitor site for follow-up menu and promotion review | Easy for customers to discover drinks and find new seasonal items at a reasonable price |
-| [Gregorys Coffee](https://gregoryscoffee.com/) | 2026-11-17 | Official competitor site for follow-up menu and café identity review | Emphasizes product quality and customization to ensure costumer satisfaction through dietary restrictions |
+| [Dunkin](https://www.dunkindonuts.com/) | 2026-11-17 | Official competitor site for follow-up menu and promotion review | Easy for customers to discover drinks and find new seasonal items at a **reasonable** price |
+| [Gregorys Coffee](https://gregoryscoffee.com/) | 2026-11-17 | Official competitor site for follow-up menu and café identity review | Emphasizes **product quality** and customization to ensure costumer satisfaction through dietary restrictions |
 
 The competitor comparison is **in progress**; do not claim three verified observations yet. Team member should open each source and record page-level evidence, exact URL, and review date.
 
